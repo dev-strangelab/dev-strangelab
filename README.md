@@ -1,7 +1,3 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="65%">
-
 # 👋 I'M KARI!
 
 *UI/UX Designer & Frontend Developer*
@@ -13,15 +9,6 @@ Diseño interfaces y construyo lo que diseño — ese cruce entre el diseño y e
 - 🧠 Explorando 3D interactivo con Three.js y WebGL
 - 🇦🇷 Buenos Aires, Argentina
 - 💖 En una relación complicada con el CSS de las 3am
-
-</td>
-<td valign="middle" width="35%" align="center">
-<br>
-<img src="ojo-tech.png" width="220px"/>
-<br>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -46,6 +33,8 @@ Diseño interfaces y construyo lo que diseño — ese cruce entre el diseño y e
 
 ---
 
+---
+
 ## 📬 Contacto
 
 <div align="center">
@@ -60,5 +49,4 @@ Diseño interfaces y construyo lo que diseño — ese cruce entre el diseño y e
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=60&section=footer"/>
-</div>.vercel.app/api?type=waving&color=a78bfa&height=60&section=footer"/>
 </div>
