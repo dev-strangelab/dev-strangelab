@@ -14,7 +14,7 @@ reutilizables, escalables y de alta fidelidad visual.
 - 🦾 **Eficiencia:** Flujos de trabajo potenciados por<br>
 IA para optimizar la lógica de programación y priorizar la UI/UX.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -22,7 +22,7 @@ IA para optimizar la lógica de programación y priorizar la UI/UX.
   <img src="stack-orbit-full.gif" alt="Tech Stack" width="500" height="500"/>
 </div>
 
----
+
 
 ## 📊 Estadísticas de GitHub
 
@@ -35,7 +35,7 @@ IA para optimizar la lógica de programación y priorizar la UI/UX.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-strangelab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&layout=compact&locale=es" height="180"/>
 </div>
 
----
+
 
 ## 📈 Contribution Graph
 
