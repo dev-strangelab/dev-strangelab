@@ -1,5 +1,7 @@
 💫 Sobre mí
 
+💫 Sobre mí
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -18,34 +20,11 @@ dev-strangelab@github
    con el CSS de las 3am
 
 </td>
-<td valign="top" width="50%">
-bash> whoami
-  dev-strangelab
-
-> rol
-  UI/UX Designer & Frontend Dev
-
-> stack
-  React · Next.js · Tailwind
-  TypeScript · Supabase · Node
-
-> diseño
-  Figma · Spline · Three.js
-
-> ubicacion
-  Buenos Aires, Argentina 🇦🇷
-
-> status
-  explorando WebGL...
-
-┌────────────────────────┐
-│  proyectos    4        │
-│  commits      ↑        │
-│  café         ∞        │
-│  CSS 3am    true       │
-└────────────────────────┘
-
+<td valign="top" width="50%" align="center">
+<img src="ojo-tech.png" width="100%"/>
 </td>
+</tr>
+</table>
 </tr>
 </table>
 
