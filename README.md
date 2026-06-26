@@ -1,7 +1,5 @@
 💫 Sobre mí
 
-💫 Sobre mí
-
 <table>
 <tr>
 <td valign="top" width="50%">
